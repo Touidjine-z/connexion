@@ -1,5 +1,3 @@
-Projet : Interface de Connexion et Inscription
-
 Description
 
 Ce projet est une interface web permettant aux utilisateurs de se connecter ou de s'inscrire à l'aide d'un identifiant et d'un mot de passe. L'application est hébergée localement avec WampServer et utilise une base de données MySQL pour stocker les identifiants des utilisateurs.
